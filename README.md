@@ -5,7 +5,7 @@ For information on how to use this repository, see [Python](https://docs.microso
 | Example | Build status |
 |---------|--------------|
 
-[![Build Status](https://dev.azure.com/TarikRebbouj0625/CasaNet%20Project%20Demo/_apis/build/status/Tarikrebbouj.Django-Python-Pipeline?branchName=master)](https://dev.azure.com/TarikRebbouj0625/CasaNet%20Project%20Demo/_build/latest?definitionId=2&branchName=master)
+[![Build Status](https://dev.azure.com/TarikRebbouj0625/CasaNetDemo/_apis/build/status/Tarikrebbouj.Django-Python-Pipeline?branchName=master)](https://dev.azure.com/TarikRebbouj0625/CasaNetDemo/_build/latest?definitionId=3&branchName=master)
 
 | Build (YAML) | [![Build status](https://dev.azure.com/pipelines-docs/docs/_apis/build/status/python-django/python)](https://dev.azure.com/pipelines-docs/docs/_build/latest?definitionId=13) |
 | Build image and push to Docker Hub (YAML) | [![Build status](https://dev.azure.com/pipelines-docs/docs/_apis/build/status/python-django/python-dockerhub)](https://dev.azure.com/pipelines-docs/docs/_build/latest?definitionId=14) |
